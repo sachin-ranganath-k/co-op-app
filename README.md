@@ -1,1 +1,1 @@
-# co-op-app
+# co-op-project
